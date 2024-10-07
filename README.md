@@ -12,7 +12,7 @@ A Python application that converts MP4 videos to MP3 audio and transcribes the a
 - **User-Friendly UI**: A clean and intuitive design enhances user experience.
 
 ## Requirements
-- Python 3.x
+- `Python 3.x`
 - `ttkbootstrap`
 - `moviepy`
 - `openai`
