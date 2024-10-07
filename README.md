@@ -26,10 +26,6 @@ A Python application that converts MP4 videos to MP3 audio and transcribes the a
    ```bash
    cd AI-Video-Transcriber
 
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
