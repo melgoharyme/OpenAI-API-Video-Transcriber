@@ -1,4 +1,4 @@
-# AI Video Transcriber
+![image](https://github.com/user-attachments/assets/dd8699b0-bbbd-4e5a-89f2-246b9dd17825)# AI Video Transcriber
 
 A Python application that converts MP4 videos to MP3 audio and transcribes the audio to text using OpenAI's Whisper API. This application features a modern, user-friendly interface built with `ttkbootstrap`, allowing for seamless navigation and functionality.
 
@@ -37,7 +37,7 @@ Run the application:
 Follow the on-screen instructions to convert video files and transcribe audio.
 
 ## Screenshot
-![AI Video Transcriber]([assets/images/screenshot.png](https://github.com/melgoharyme/AI-Video-Transcriber/blob/master/assets/images/video_transcriber.png))
+![AI Video Transcriber]([assets/images/video_transcriber.png](https://github.com/melgoharyme/AI-Video-Transcriber/blob/master/assets/images/video_transcriber.png))
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
