@@ -20,7 +20,7 @@ A Python application that converts MP4 videos to MP3 audio and transcribes the a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/melgoharyme/AI-Video-Transcriber.git
+   git clone https://github.com/melgoharyme/OpenAI-API-Video-Transcriber.git
 
 2. Navigate to the project directory:
    ```bash
